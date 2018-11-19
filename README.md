@@ -18,6 +18,6 @@ A music app to discover new artists based on "similar artist" suggestions.
 * Aktas Halim : https://github.com/Halim78
 * Dupoix Eléonore : https://github.com/eledx
 * Jousselin Elisabeth : https://github.com/Babeth75
-* Morane Gregoire : https://github.com/GregoireMorane
+* Morane Grégoire : https://github.com/GregoireMorane
 * Rodrigues Oscar : https://github.com/Muninn-1
 * Smirnoff Alexandre : https://github.com/dokoliday
